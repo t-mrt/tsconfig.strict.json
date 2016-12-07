@@ -1,4 +1,4 @@
-USEGE
+USAGE
 =====
 
 ```json
